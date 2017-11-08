@@ -1,0 +1,42 @@
+
+.title {
+    font-weight: bold;
+    text-align: left;
+    font-size: 1.3em;
+}
+.description{
+	font-size: 1.1em;
+	margin-left: 20px;
+	color: #b3b3b3;
+}
+.postnum{
+	font-weight: bold;
+	font-size: 1.1em;
+	margin-left: 20px;
+}
+.blog {
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 30px;
+    background-color:  #e6e6e6;
+}
+.blog-container {
+    width: 40%;
+    float: left;
+}
+.bDiv{
+	width: 100px;
+	margin: 0 auto;
+}
+button {
+    background-color: white;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: solid 1px;
+}

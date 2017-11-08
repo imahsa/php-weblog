@@ -1,0 +1,43 @@
+#newBlogDiv{
+	margin: 0 auto;
+	width: 50%;
+	height: 600px;
+}
+
+#all{
+	margin: 0 auto;
+	border: solid;
+	width: 65%;
+	height: 510px;
+	background-color: #efefef;
+	border-style: groove;
+}
+
+h1 {
+	text-align: center;
+}
+
+#newBlogFormDiv{
+	margin: 0 auto;
+	width: 400px;
+	height: 450px;
+}
+
+
+button {
+    background-color: #b3b5b7;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: solid 1px;
+}
+
+#bDiv{
+	margin: 0 auto;
+	width: 50px;
+}

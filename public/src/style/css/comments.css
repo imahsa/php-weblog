@@ -1,0 +1,43 @@
+#commentDiv{
+	height: 420px;
+	width: 400px;
+	margin: 0 auto;
+	border-color: black;
+	border-style: groove;
+	background-color: #efefef;
+}
+
+h1{
+	float: left;
+}
+#all{
+	height: auto;
+	width: 300px;
+	margin: 0 auto;	
+	overflow: hidden;
+	background-color: white;
+	border-color: black;
+	border-style: groove;
+}
+
+#commentForm{
+	margin-left: 10px;
+}
+#bDiv{
+	float: right;
+	width: 100px;
+}
+
+button {
+    background-color: #b3b5b7;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: solid 1px;
+}
+

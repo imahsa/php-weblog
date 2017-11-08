@@ -1,0 +1,46 @@
+#loginDiv{
+	margin: 0 auto;
+	width: 50%;
+	height: 400px;
+}
+
+#all{
+	margin: 0 auto;
+	border: solid;
+	width: 55%;
+	height: 350px;
+	background-color: #efefef;
+	border-style: groove;
+}
+
+h1 {
+	text-align: center;
+}
+
+#formDiv{
+	margin: 0 auto;
+	width: 160px;
+	height: 200px;
+}
+
+#checkBox{
+	margin: 0 auto;
+	width: 140px;
+}
+
+#otherLogin{
+	margin: 0 auto;
+	width: 160px;
+}
+button {
+    background-color: #b3b5b7;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: solid 1px;
+}
